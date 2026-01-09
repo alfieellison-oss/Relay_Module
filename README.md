@@ -2,7 +2,7 @@
 
 This is the repo for a relay control module that im making, designed to work with an ESP32 microcontroller but will hopefully be compatible with others.
 
-<img width="854" height="516" alt="image" src="https://github.com/user-attachments/assets/4fd68a51-6c1e-4699-924d-47b38c5f7015" />
+<img width="671" height="464" alt="image" src="https://github.com/user-attachments/assets/1368e3bb-6f11-486c-bd07-720414a2be8c" />
 
 
 
@@ -28,7 +28,8 @@ Here are pictures of my pcb:
 <img width="1292" height="589" alt="image" src="https://github.com/user-attachments/assets/22a9f894-8902-4849-b9e1-4f197aa39d8d" />
 
 ### PCB
-<img width="771" height="382" alt="image" src="https://github.com/user-attachments/assets/85328ffa-471e-43ca-a6e7-e8d6236d5a34" />
+<img width="959" height="439" alt="image" src="https://github.com/user-attachments/assets/6dc731fb-87bd-4fe2-98af-53ba4fe61477" />
+
 
 ## BOM
 | Id | Reference        | Component                | Footprint                                        | Quantity | RS Stock No | Title                                            | Manufacturer Part No | Unit Price (£) |
