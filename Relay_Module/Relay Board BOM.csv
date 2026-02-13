@@ -1,11 +1,11 @@
-"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
-1;"K1";"HK4100F-5V";1;"Relay_SPDT";;;
-2;"R3";"R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal";1;"10k";;;
-3;"POWER1";"PinHeader_1x02_P2.54mm_Horizontal";1;"Conn_01x02";;;
-4;"R2,R1";"R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal";2;"1k";;;
-5;"Q1";"TO-92_Inline";1;"Q_NPN_BCE";;;
-6;"D2";"LED_D5.0mm";1;"LED";;;
-7;"D1";"D_DO-15_P10.16mm_Horizontal";1;"D_Small";;;
-8;"C1";"C_Disc_D5.0mm_W2.5mm_P5.00mm";1;"100nF";;;
-9;"OUTPUT1";"TerminalBlock_Phoenix_MKDS-1,5-3-5.08_1x03_P5.08mm_Horizontal";1;"Conn_01x03";;;
-10;"ESP32_GPIO_CONN1";"PinHeader_1x01_P2.54mm_Horizontal";1;"Conn_01x0";;;
+Id,Designator,Footprint,Quantity,Designation
+1,K1,HK4100F-5V,1,Relay_SPDT
+2,R3,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,1,10k
+3,POWER1,PinHeader_1x02_P2.54mm_Horizontal,1,Conn_01x02
+4,"R2,R1",R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,2,1k
+5,Q1,TO-92_Inline,1,Q_NPN_BCE
+6,D2,LED_D5.0mm,1,LED
+7,D1,D_DO-15_P10.16mm_Horizontal,1,D_Small
+8,C1,C_Disc_D5.0mm_W2.5mm_P5.00mm,1,100nF
+9,OUTPUT1,TerminalBlock_Phoenix_MKDS-1,5-3-5.08_1x03_P5.08mm_Horizontal,1,Conn_01x03
+10,ESP32_GPIO_CONN1,PinHeader_1x01_P2.54mm_Horizontal,1,Conn_01x01
